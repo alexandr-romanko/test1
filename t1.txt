@@ -2,4 +2,6 @@ str1
 
 print("Hello")
 
+Console.WriteLine("My Name Alex")
+
 
